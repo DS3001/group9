@@ -1,0 +1,1 @@
+Midterm Project for DS3001: Foundations of Machine Learning. The finished deliverable will be a written report containing data visualizations and explorations aimed at answering an essential question regarding voting preferences, based on General Sensus Survey data.
